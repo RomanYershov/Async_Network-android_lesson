@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="load">Load</string>
+    <string name="load_finished">load finished</string>
+</resources>
